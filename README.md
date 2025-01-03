@@ -1,2 +1,2 @@
 # Simon-Says-Game
-Simple Game called Simon Says
+Simple Game called Simon Says.
